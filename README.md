@@ -15,7 +15,7 @@ A **MERN Stack** blog management system using **React, Redux, and Tailwind CSS**
 git clone https://github.com/harishmodi129/Blog-Management-Application.git
 cd Blog-Management-Application
 
-![image](https://github.com/user-attachments/assets/7bdd9f16-6c80-4e39-88e8-02794d3f86bd)
+
 
 
 
