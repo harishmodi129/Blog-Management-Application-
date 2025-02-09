@@ -1,3 +1,21 @@
+# Blog Management Application
+
+A **MERN Stack** blog management system using **React, Redux, and Tailwind CSS**.
+
+## 🚀 Features
+- Create, Read, Delete blog posts.
+- Form validation with error handling.
+- Redux Persist for state management.
+- Image upload with live preview.
+
+## 🛠️ Setup Instructions
+
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/harishmodi129/Blog-Management-Application.git
+cd Blog-Management-Application
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +86,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
